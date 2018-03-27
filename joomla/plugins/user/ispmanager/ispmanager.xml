@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.6" type="plugin" group="user">
+    <name>User - ISP Manager</name>
+    <author>Enrico Valsecchi</author>
+    <creationDate>22 aprile 2011</creationDate>
+    <copyright>(C) 2007 Mizar s.a.s. All rights reserved.</copyright>
+    <license>Commercial - see http://www.mizarsolutions.com</license>
+    <authorEmail>admin@hostyle.it</authorEmail>
+    <authorUrl>www.mizarsolutions.com</authorUrl>
+    <version>1.6</version>
+    <description>ISP Manager user plugin</description>
+    <files>
+        <filename plugin="ispmanager">ispmanager.php</filename>
+    </files>
+    <params/>
+</install>

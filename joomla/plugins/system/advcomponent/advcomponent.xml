@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<install version="1.5" type="plugin" group="system">
+    <name>System - AdvComponent</name>
+    <author>Enrico Valsecchi</author>
+    <creationDate>November 2007</creationDate>
+    <copyright>(C) 2007 Mizar Solutions s.r.l.. All rights reserved.</copyright>
+    <license>GNU/GPL</license>
+    <authorEmail>admin@hostyle.it</authorEmail>
+    <authorUrl>www.mizarsolutions.com</authorUrl>
+    <version>1.0</version>
+    <description>This plugin allow Joomla system to display a different component on start page and assign for each master module a specific template.</description>
+    <files>
+        <filename plugin="advcomponent">advcomponent.php</filename>
+    </files>
+</install>

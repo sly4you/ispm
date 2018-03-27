@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.6" type="plugin" group="authentication">
+    <name>Authentication - ISP Manager</name>
+    <author>Enrico Valsecchi</author>
+    <creationDate>07 novembre 2007</creationDate>
+    <copyright>(C) 2005 - 2007 Mizar Solutions s.r.l. All rights reserved.</copyright>
+    <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+    <authorEmail>admin@hostyle.it</authorEmail>
+    <authorUrl>www.mizarsolutions.com</authorUrl>
+    <version>1.6</version>
+    <description>ISP Manager authentication plugin</description>
+    <files>
+        <filename plugin="ispmanager">ispmanager.php</filename>
+    </files>
+    <params/>
+</install>
